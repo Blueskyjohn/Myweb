@@ -1,0 +1,95 @@
+body{
+	margin:0 auto;
+	border:1px solid green;
+	width:980px;
+	height:1000px;
+	font-size:12px;
+}
+
+.div_top{
+	width:945px;
+	height:30px;
+	/*border:1px solid blue;*/
+}
+
+.login{
+	/*border:1px solid blue;*/
+	
+	float:left;
+	margin-left:500px;
+	margin-top: auto;
+	
+}
+
+.login a:link{
+	color:black;
+	text-decoration:none;
+}
+
+.setindex{
+	float:left;
+	margin-top:8px;
+	margin-left:30px;
+}
+
+.href{
+	/*border:1px solid blue;*/
+	margin-right:3px;
+	margin-top:8px;
+	float:right;
+}
+
+.logo{
+	height:76px;
+	width:137px;
+	float:left;
+	background:pink;
+}
+
+.navi{
+	width:808px;
+	height:76px;
+	float:right;
+	background:green;
+}
+
+.div2{
+	width:945px;
+	height:232px;
+	background:silver;
+	float:left;
+	margin-top:6px;
+	margin-left:2px;
+}
+
+.div2_1{
+	width:130px;
+	height:225px;
+	float:left;
+	margin-left:4px;
+	background:black;
+}
+
+.div2_2{
+	width:450px;
+	height:225px;
+	float:left;
+	margin-left:4px;
+	background:purple;
+}
+
+.div2_3{
+	width:182px;
+	height:225px;
+	float:left;
+	margin-left:4px;
+	background:orange;
+}
+
+.div2_4{
+	width:158px;
+	height:225px;
+	float:right;
+	margin-left:4px;
+	background:purple;
+}
